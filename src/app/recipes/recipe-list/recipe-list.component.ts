@@ -11,7 +11,7 @@ export class RecipeListComponent implements OnInit {
     new Recipe(
       'Recipe One',
       'Description Test',
-      'https://pinchofyum.com/cdn-cgi/image/width=360,height=514,fit=crop/wp-content/uploads/Couscous-Salad-1-3.jpg'
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0xeXHW7Hhz7riSMZ2IEi2voe6OVSCiqkoNQ&usqp=CAU'
     ),
     new Recipe(
       'Recipe One',
